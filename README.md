@@ -1,2 +1,2 @@
-# second-task-iot
-We created a bot base control panel using html and css. The base has a control panel that includes four directions as well as an on/off button. The directions are left and right, as well as forward and backward. We also created a database with 7 columns, a tariff column and five columns for the four directions, as well as an on/off button. Finally, a portable presentation is created and the image is attached
+# mission again
+In the second task, we created the bot base control panel using html and css. The base has a control panel that includes four directions as well as an on/off button. The directions are left and right, as well as forward and backward. We also created a database with 7 columns, a tariff column and five columns for the four directions, as well as an on/off button. Finally, a portable presentation is created and the image is attached
